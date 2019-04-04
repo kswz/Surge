@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,anynode.net
+DOMAIN-SUFFIX,virmach.com
+DOMAIN-SUFFIX,ramnode.com
+DOMAIN-SUFFIX,bwh88.net
+DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,nordvpn.com
