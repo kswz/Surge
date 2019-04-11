@@ -336,6 +336,7 @@ DOMAIN-SUFFIX,pagespeed.report.qq.com
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,pinghot.qq.com
 DOMAIN-SUFFIX,pingjs.qq.com
+DOMAIN-SUFFIX,pingma.qq.com
 DOMAIN-SUFFIX,pingtcss.qq.com
 DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,pms.mb.qq.com
