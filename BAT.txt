@@ -25,10 +25,10 @@ DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,cjhq.baidu.com
 DOMAIN-SUFFIX,cleaner.baidu.com
 DOMAIN-SUFFIX,click.bes.baidu.com
-DOMAIN-SUFFIX,click.hm.baidu.com
 DOMAIN-SUFFIX,cm.baichuan.baidu.com
 DOMAIN-SUFFIX,cm.baidu.com
 DOMAIN-SUFFIX,cm.pos.baidu.com
+DOMAIN-SUFFIX,wn.pos.baidu.com
 DOMAIN-SUFFIX,cpro.baidu.cn
 DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,cpro.baidustatic.com
@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,gimg.baidu.com
 DOMAIN-SUFFIX,guanjia.baidu.com
 DOMAIN-SUFFIX,hc.baidu.com
 DOMAIN-SUFFIX,hm.baidu.com
+DOMAIN-SUFFIX,click.hm.baidu.com
 DOMAIN-SUFFIX,hmma.baidu.com
 DOMAIN-SUFFIX,hpd.baidu.com
 DOMAIN-SUFFIX,idm.bce.baidu.com
