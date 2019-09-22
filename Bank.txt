@@ -1,0 +1,22 @@
+USER-AGENT,cloudd*
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,mmbiz.qpic.cn
+DOMAIN-SUFFIX,netvigator.com
+DOMAIN-SUFFIX,mail.sh.cn
+DOMAIN-KEYWORD,shchildren
+
+# Bank
+USER-AGENT,1Password*
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,eshimin.com
