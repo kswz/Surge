@@ -43,3 +43,7 @@ DOMAIN-SUFFIX,fast.com
 DOMAIN-KEYWORD,duyaoss
 DOMAIN-KEYWORD,boslife
 DOMAIN-KEYWORD,cordcloud
+
+# xunfei
+DOMAIN-SUFFIX,openspeech.cn
+IP-CIDR,117.121.48.5/32
