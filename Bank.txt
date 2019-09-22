@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,netvigator.com
 DOMAIN-SUFFIX,mail.sh.cn
 DOMAIN-KEYWORD,shchildren
 
-# Bank
+// Bank
 USER-AGENT,1Password*
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,boc.cn
