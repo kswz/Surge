@@ -5,6 +5,11 @@ DOMAIN-KEYWORD,mobads
 DOMAIN-SUFFIX,appsdk.tanv.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,crashlytics.com
+
+// xunfei
+DOMAIN-SUFFIX,openspeech.cn
+IP-CIDR,117.121.48.5/32
+
 // Baidu
 DOMAIN-SUFFIX,a.baidu.com
 DOMAIN-SUFFIX,ad.player.baidu.com
