@@ -1,4 +1,4 @@
-# Proxy
+// Proxy
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,dropbox
@@ -25,25 +25,21 @@ DOMAIN-SUFFIX,roomertravel.com
 DOMAIN-SUFFIX,tripadvisor.com
 DOMAIN-SUFFIX,amazonaws.com
 
-# telegram
+// telegram
 DOMAIN-KEYWORD,telegram
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,t.me
 IP-CIDR,91.108.0.0/16
 IP-CIDR,149.154.160.0/20
 
-# netflix
+// netflix
 DOMAIN-KEYWORD,netflix
 DOMAIN-KEYWORD,nflximg
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,fast.com
 
-# ss
+// ss
 DOMAIN-KEYWORD,duyaoss
 DOMAIN-KEYWORD,boslife
 DOMAIN-KEYWORD,cordcloud
-
-# xunfei
-DOMAIN-SUFFIX,openspeech.cn
-IP-CIDR,117.121.48.5/32
