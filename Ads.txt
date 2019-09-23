@@ -10,6 +10,25 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,openspeech.cn
 IP-CIDR,117.121.48.5/32
 
+// Google
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,chartboost.com
+DOMAIN-SUFFIX,log.umsns.com
+DOMAIN-SUFFIX,googleadservices.com
+
+// Youtube
+DOMAIN-SUFFIX.youtube.com
+DOMAIN-SUFFIX,azabu-u.ac.jp
+DOMAIN-SUFFIX,couchcoaster.jp
+DOMAIN-SUFFIX,delivery.dmkt-sp.jp
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com
+DOMAIN-SUFFIX,m-78.jp
+DOMAIN-SUFFIX,nichibenren.or.jp
+DOMAIN-SUFFIX,nicorette.co.kr
+DOMAIN-SUFFIX,youtube.112.2o7.net
+
 // Baidu
 DOMAIN-SUFFIX,a.baidu.com
 DOMAIN-SUFFIX,ad.player.baidu.com
