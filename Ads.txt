@@ -10,6 +10,25 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,openspeech.cn
 IP-CIDR,117.121.48.5/32
 
+// Google
+DOMAIN-KEYWORD,googleads
+DOMAIN-SUFFIX,ads.google.com
+DOMAIN-SUFFIX,afd.l.google.com
+DOMAIN-SUFFIX,doubleclick.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletakes.com
+DOMAIN-SUFFIX,mobileads.google.com
+DOMAIN-SUFFIX,pagead.google.com
+DOMAIN-SUFFIX,pagead.l.google.com
+DOMAIN-SUFFIX,pagead-tpc.l.google.com
+DOMAIN-SUFFIX,chartboost.com
+DOMAIN-SUFFIX,log.umsns.com
+
 // Baidu
 DOMAIN-SUFFIX,a.baidu.com
 DOMAIN-SUFFIX,ad.player.baidu.com
