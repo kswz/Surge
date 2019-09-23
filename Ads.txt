@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,appsdk.tanv.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,crashlytics.com
 
-// xunfei
+// xunfei 
 DOMAIN-SUFFIX,openspeech.cn
 IP-CIDR,117.121.48.5/32
 
