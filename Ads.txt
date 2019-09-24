@@ -1,0 +1,32 @@
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,hm.baidu.com
+DOMAIN-SUFFIX,wn.pos.baidu.com
+DOMAIN-KEYWORD,mobads
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,appsdk.tanv.com
+DOMAIN-SUFFIX,voiceads.cn
+DOMAIN-SUFFIX,sdk.cferw.com
+DOMAIN-KEYWORD,umeng
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-KEYWORD,mobads
+DOMAIN-SUFFIX,appsdk.tanv.com
+DOMAIN-SUFFIX,voiceads.cn
+DOMAIN-SUFFIX,crashlytics.com
+
+// xunfei 
+DOMAIN-SUFFIX,openspeech.cn
+IP-CIDR,117.121.48.5/32
+
+// tencent
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,p.l.qq.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
+DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
+
+// Google ads
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
