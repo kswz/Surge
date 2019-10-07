@@ -1,4 +1,4 @@
-// Proxy
+# Proxy
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,dropbox
@@ -24,22 +24,25 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,roomertravel.com
 DOMAIN-SUFFIX,tripadvisor.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-KEYWORD,github
 
-// telegram
-DOMAIN-KEYWORD,telegram
-DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,t.me
-IP-CIDR,91.108.0.0/16
-IP-CIDR,149.154.160.0/20
-
-// netflix
+# netflix
 DOMAIN-KEYWORD,netflix
 DOMAIN-KEYWORD,nflximg
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,fast.com
 
-// ss
-DOMAIN-KEYWORD,duyaoss
+# ss
 DOMAIN-KEYWORD,boslife
+DOMAIN-KEYWORD,duyaoss
 DOMAIN-KEYWORD,cordcloud
+
+# ihg
+DOMAIN-SUFFIX,ihg.com
+USER-AGENT,IHGBra*
+
+# telegram
+DOMAIN-KEYWORD,telegram
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,t.me
