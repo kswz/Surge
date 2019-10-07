@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,p.l.qq.com
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
+DOMAIN-SUFFIX,pingma.qq.com
 
 // Google ads
 DOMAIN-SUFFIX,doubleclick.net
