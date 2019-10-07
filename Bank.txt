@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,netvigator.com
 DOMAIN-SUFFIX,hubspot.com
 DOMAIN-SUFFIX,mail.sh.cn
 DOMAIN-KEYWORD,shchildren
+DOMAIN,ihg.scene7.com
 
 # Bank
 USER-AGENT,1Password*
