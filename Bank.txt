@@ -3,13 +3,15 @@ DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-KEYWORD,tenpay
 DOMAIN-SUFFIX,mmbiz.qpic.cn
 DOMAIN-SUFFIX,netvigator.com
+DOMAIN-SUFFIX,hubspot.com
 DOMAIN-SUFFIX,mail.sh.cn
 DOMAIN-KEYWORD,shchildren
 
-// Bank
+# Bank
 USER-AGENT,1Password*
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,boc.cn
