@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,mobads
 DOMAIN-SUFFIX,appsdk.tanv.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,xdrig.com
 
 // xunfei 
 DOMAIN-SUFFIX,openspeech.cn
