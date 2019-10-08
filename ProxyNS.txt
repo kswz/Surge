@@ -2,7 +2,6 @@
 香港04 = ss, hkqyy.wmsxwd.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 美国08 = ss, gia1.wmsxwd.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 日本07 = ss, gmo1.ddns.357159.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
-台湾04 = ss, tw4.wmsxwd.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 日本05 = ss, iij.wmsxwd.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 美国16 = ss, ua16.ddns.566366.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 美国15 = ss, ua15.ddns.566366.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
