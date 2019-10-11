@@ -1,9 +1,7 @@
 美国06 = ss, sjcgia.ddns.357159.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 台湾06 = ss, twvm.ddns.357159.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
-日本14 = ss, hkqyy.wmsxwd.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 日本07 = ss, gmo1.ddns.357159.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
+日本14 = ss, hkqyy.wmsxwd.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 美国16 = ss, ua16.ddns.566366.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 香港31 = ss, hk31.ddns.566366.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 Jok免费俄罗斯 = ss, 5.44.44.58, 443, encrypt-method=chacha20-ietf, password=wmsxwd.zone
-新加坡01-免费 = ss, mf3.ddns.357159.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
-美国01-免费 = ss, mf2.357159.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
