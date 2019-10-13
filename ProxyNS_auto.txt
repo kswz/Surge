@@ -2,3 +2,4 @@
 台湾06 = ss, twvm.ddns.357159.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 日本08 = ss, gmo8.ddns.566366.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
 美国16 = ss, ua16.ddns.566366.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http
+美国14-GIA-×1.6-Netflix = ss, 60gia.ddns.357159.xyz, 2033, encrypt-method=aes-256-gcm, password=aye7wy, obfs=http, obfs-host=wns.windows.com, udp-relay=true
