@@ -1,1 +1,0 @@
-Jok免费俄罗斯 = ss, 5.44.44.58, 443, encrypt-method=chacha20-ietf, password=wmsxwd.zone
