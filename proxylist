@@ -1,0 +1,35 @@
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,ift.tt
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-KEYWORD,github
+
+# netflix
+DOMAIN-KEYWORD,netflix
+DOMAIN-KEYWORD,nflximg
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,fast.com
+
+# telegram
+DOMAIN-KEYWORD,telegram
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,t.me
