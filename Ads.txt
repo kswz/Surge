@@ -30,3 +30,7 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlesyndication.com
+
+// 知乎
+DOMAIN,118.89.204.198
+USER-AGENT,AVOS*
