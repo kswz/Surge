@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.in
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-KEYWORD,github
 
 # netflix
 DOMAIN-KEYWORD,netflix
