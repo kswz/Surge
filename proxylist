@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,gravatar.com
 
 # bing
 DOMAIN-KEYWORD,bing
+DOMAIN,location.microsoft.com
+
