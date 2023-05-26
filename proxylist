@@ -36,9 +36,7 @@ DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,t.me
 
 # ChatGPT
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,gravatar.com
 
 # bing
