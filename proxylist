@@ -1,3 +1,5 @@
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,whatsapp
@@ -20,6 +22,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.in
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,taohao.me
 
 # netflix
 DOMAIN-KEYWORD,netflix
@@ -42,4 +45,3 @@ DOMAIN-SUFFIX,gravatar.com
 # bing
 DOMAIN-KEYWORD,bing
 DOMAIN,location.microsoft.com
-
