@@ -11,8 +11,7 @@ DOMAIN-SUFFIX,mail.sh.cn
 DOMAIN-SUFFIX,163.com
 
 # Bank
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-KEYWORD,1password
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,paypal.com
