@@ -1,0 +1,26 @@
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,digicert.com
+
+DOMAIN-SUFFIX,qq.com
+DOMAIN-KEYWORD,tenpay
+DOMAIN-SUFFIX,mmbiz.qpic.cn
+DOMAIN-SUFFIX,hubspot.com
+DOMAIN-SUFFIX,mail.sh.cn
+DOMAIN-SUFFIX,163.com
+
+# Bank
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-KEYWORD,abchina
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,eshimin.com
