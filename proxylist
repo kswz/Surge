@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,t.me
 # ChatGPT
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,sentry.io
 
 # bing
 DOMAIN-KEYWORD,bing
