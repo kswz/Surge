@@ -44,3 +44,7 @@ DOMAIN-SUFFIX,sentry.io
 # bing
 DOMAIN-KEYWORD,bing
 DOMAIN,location.microsoft.com
+
+# POE
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,quora.com
