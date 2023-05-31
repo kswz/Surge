@@ -1,11 +1,1 @@
-QKVM1 = ss, 103.79.77.241, 1218, encrypt-method=aes-256-gcm, password=m$v5&U2psM, obfs=http, udp-relay=true
-🇯🇵 日本1 = ss, jxcu.xsus.link, 10031, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇯🇵 日本2 = ss, jxcu.xsus.link, 10032, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇯🇵 日本3 = ss, jxcu.xsus.link, 10033, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇯🇵 日本4 = ss, jxcu.xsus.link, 10034, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇯🇵 日本5 = ss, jxcu.xsus.link, 10035, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇺🇸 美国1 = ss, jxcu.xsus.link, 10051, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇺🇸 美国2 = ss, jxcu.xsus.link, 10052, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇺🇸 美国3 = ss, jxcu.xsus.link, 10053, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇺🇸 美国4 = ss, jxcu.xsus.link, 10054, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
-🇺🇸 美国5 = ss, jxcu.xsus.link, 10055, encrypt-method=aes-256-gcm, password=f3e4f3fc-ca04-4b2f-b9f6-d3d8fb833481, udp-relay=true
+
