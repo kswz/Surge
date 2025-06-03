@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,sentry.io
 
 # bing
 DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,onedrive
 DOMAIN,location.microsoft.com
 
 # POE
