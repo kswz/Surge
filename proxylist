@@ -47,6 +47,9 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,office
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
 DOMAIN,location.microsoft.com
 
 # POE
