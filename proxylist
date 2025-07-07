@@ -60,4 +60,4 @@ DOMAIN-SUFFIX,qr.ae
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 
-URL-REGEX,^(https?:\/\/(?:www\.)?|ftp:\/\/)pyrosight\.cn\/private(?:\/[\w\.-]*)?\/?$
+DOMAIN-KEYWORD,pad_list
