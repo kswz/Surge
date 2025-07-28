@@ -38,11 +38,6 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,t.me
 
-# ChatGPT
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,sentry.io
-
 # bing
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,microsoft
@@ -52,12 +47,3 @@ DOMAIN-KEYWORD,skype
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN,location.microsoft.com
-
-# POE
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,poecdn.net
-DOMAIN-SUFFIX,qr.ae
-DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,quoracdn.net
-
-DOMAIN-SUFFIX,pyrosight.cn
