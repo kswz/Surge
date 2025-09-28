@@ -51,3 +51,6 @@ DOMAIN-KEYWORD,skype
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN,location.microsoft.com
+
+DOMAIN,file.pyrosight.cn
+
